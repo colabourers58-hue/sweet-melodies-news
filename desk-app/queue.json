@@ -1,7 +1,7 @@
 {
  "station": "Sweet Melodies FM",
  "repo": "colabourers58-hue/sweet-melodies-newsroom",
- "generated": "2026-10-14T19:31:35+00:00",
+ "generated": "2026-10-14T21:59:55+00:00",
  "stories": [
   {
    "id": 14453,
@@ -60,6 +60,35 @@
    "outlets": 1,
    "score": 3146.109,
    "created": "2026-10-14T19:06:15+00:00"
+  },
+  {
+   "id": 16991,
+   "headline": "Pastor Nathaniel Bassey Leads Day 3 of October 2026 Hallelujah Challenge",
+   "dek": "The inter-denominational virtual worship session focuses on edifying believers through music and the Holy Spirit.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Pastor Nathaniel Bassey has hosted Day 3 of the October 2026 edition of the Hallelujah Challenge, an inter-denominational virtual gathering of Christians.",
+    "According to the ministry, the online programme primarily aims to educate and edify believers in their personal relationship with God, emphasizing the importance and workings of the Holy Spirit. The session features spontaneous music worship led by Pastor Nathaniel Bassey and his team. The full virtual service can be watched online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/2Dxd2wwRLLc/maxresdefault.jpg",
+   "credit": "Nathaniel Bassey Main (YouTube)",
+   "sources": [
+    {
+     "outlet": "Nathaniel Bassey Main",
+     "url": "https://www.youtube.com/watch?v=2Dxd2wwRLLc",
+     "title": "HALLELUJAH CHALLENGE || OCT 2026 || DAY 3"
+    }
+   ],
+   "outlets": 1,
+   "score": 3076.625,
+   "created": "2026-10-14T21:31:59+00:00"
   },
   {
    "id": 14454,
@@ -176,6 +205,64 @@
    "outlets": 1,
    "score": 71.163,
    "created": "2026-10-14T19:06:40+00:00"
+  },
+  {
+   "id": 16992,
+   "headline": "Theophilus Sunday holds Day 2 of Tarry Nyanya 2026",
+   "dek": "Gospel minister Theophilus Sunday has hosted the second day of the Tarry Nyanya 2026 worship gathering.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Gospel minister Theophilus Sunday has convened Day 2 of the Tarry Nyanya 2026 programme, tagged 'Midwives.'",
+    "According to the ministry, the worship gathering aligns with its mission to reach the ends of the earth, share the gospel, and prepare people for the kingdom of God through worship. The full recording of the service can be watched online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/RzMVSXYILUA/maxresdefault.jpg",
+   "credit": "THEOPHILUS SUNDAY (YouTube)",
+   "sources": [
+    {
+     "outlet": "THEOPHILUS SUNDAY",
+     "url": "https://www.youtube.com/watch?v=RzMVSXYILUA",
+     "title": "TARRY NYANYA 2026 || MIDWIVES || DAY 2 || THEOPHILUS SUNDAY"
+    }
+   ],
+   "outlets": 1,
+   "score": 55.645,
+   "created": "2026-10-14T21:32:12+00:00"
+  },
+  {
+   "id": 16993,
+   "headline": "Pastor Jerry Eze leads NSPPD UK Prayer Conference 2026",
+   "dek": "Gospel artist Kaestrings joined Pastor Jerry Eze for a live worship session at the NSPPD United Kingdom Prayer Conference 2026.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Stream of Joy International has held the NSPPD United Kingdom Prayer Conference 2026, hosted by Pastor Jerry Eze.",
+    "The event featured a live worship session with gospel music artist Kaestrings. According to the ministry, thousands of worshippers joined across the globe for a time of praise, prophetic ministration, and prayer under the ministry's declaration, 'What God Cannot Do Does Not Exist!' The full video session is available to watch online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/UCs6r0Dv1pc/maxresdefault.jpg",
+   "credit": "Official Gospel TV (YouTube)",
+   "sources": [
+    {
+     "outlet": "Official Gospel TV",
+     "url": "https://www.youtube.com/watch?v=UCs6r0Dv1pc",
+     "title": "NSPPD UK Conference 2026: Kaestrings Live Worship Session with Pastor Jerry Eze"
+    }
+   ],
+   "outlets": 1,
+   "score": 54.629,
+   "created": "2026-10-14T21:32:25+00:00"
   },
   {
    "id": 1,
@@ -1690,6 +1777,42 @@
    "created": "2026-10-14T08:42:53+00:00"
   },
   {
+   "id": 16092,
+   "headline": "Ghanaian banks to collect 20 per cent digital tax from October 15",
+   "dek": "The Ghana Revenue Authority has directed commercial banks to collect statutory taxes on foreign streaming and software subscriptions.",
+   "category": "Business",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "1 nine-word run(s) copied from a source, e.g. “act 1151 which took effect on 1 january 2026”"
+   ],
+   "body": [
+    "Commercial banks across Ghana will start collecting a 20 per cent tax on foreign digital service payments on Thursday, 15 October.",
+    "The deduction applies to cross-border online payments made using local bank cards for platforms such as Netflix, Spotify, Disney+, Showmax, Zoom, Microsoft 365, and ChatGPT."
+   ],
+   "more": 7,
+   "photo": "img/16092.jpg",
+   "credit": "Yen.com.gh",
+   "sources": [
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/ghana/313729-ghana-banks-collect-20-tax-netflix-spotify-chatgpt-october-15/",
+     "title": "Ghanaians to pay more for Netflix, Spotify and other subscriptions from October 15"
+    },
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/news/netflix-spotify-chatgpt-get-costlier-banks-to-collect-20-tax-from-october-15",
+     "title": "Netflix, Spotify, ChatGPT get costlier: Banks to collect 20% tax from October 15"
+    }
+   ],
+   "outlets": 4,
+   "score": 15.15,
+   "created": "2026-10-14T21:17:03+00:00"
+  },
+  {
    "id": 9756,
    "headline": "Van Vicker sues Lil Win for GH¢10m over defamation",
    "dek": "The actor takes court action against Lil Win over a viral video, claiming GH¢10 million in financial damages.",
@@ -1773,6 +1896,47 @@
    "created": "2026-10-10T17:05:25+00:00"
   },
   {
+   "id": 16078,
+   "headline": "Abass Osabutey enters race for NDC Deputy National Organiser",
+   "dek": "The former security head for the party's Ashanti Region campaign says he will focus on rebuilding branch structures ahead of 2028.",
+   "category": "Politics",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines. Politics: a one-sided headline here can make the station look partisan. Check that both sides are fairly represented. A legal or police matter: describe it exactly as the authorities or the court did, and do not suggest anyone is guilty before a court says so.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "1 nine-word run(s) copied from a source, e.g. “said he explained that his decision to contest was”"
+   ],
+   "body": [
+    "Former Ashanti Region campaign security head Abass Mustapha Osabutey has formally declared his bid for Deputy National Organiser of the National Democratic Congress.",
+    "The Ghanaian Times reported that the declaration comes as the party prepares for internal executive elections to shape its leadership before future national polls."
+   ],
+   "more": 5,
+   "photo": "img/16078.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/abass-osabutey-declares-bid-to-contest-ndc-deputy-national-organizer/",
+     "title": "Abass Osabutey declares bid to contest NDC Deputy National Organizer"
+    },
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/politics/abass-osabutey-declares-bid-to-contest-ndc-deputy-national-organizer-position",
+     "title": "Abass Osabutey declares bid to contest NDC Deputy National Organizer position"
+    },
+    {
+     "outlet": "Ghanaian Times",
+     "url": "https://ghanaiantimes.com.gh/abass-osabutey-eyes-ndc-deputy-national-organiser-post/",
+     "title": "Abass Osabutey eyes NDC Deputy National Organiser post"
+    }
+   ],
+   "outlets": 4,
+   "score": 14.93,
+   "created": "2026-10-14T21:17:03+00:00"
+  },
+  {
    "id": 36,
    "headline": "University of Ghana lecturers threaten strike over unpaid allowance",
    "dek": "UTAG-UG says its 2026 Book and Research Allowance is overdue under a 2020 agreement and has set government a Friday, 16 October deadline.",
@@ -1851,6 +2015,52 @@
    "outlets": 3,
    "score": 14.78,
    "created": "2026-10-11T19:33:45+00:00"
+  },
+  {
+   "id": 16055,
+   "headline": "Petrol and diesel prices expected to fall as LPG surges",
+   "dek": "Lower pump costs will ease transport spending across Ghana, but higher cooking gas prices will increase daily household expenses.",
+   "category": "Business",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "3 nine-word run(s) copied from a source, e.g. “as ukraine questioned a proposed us backed energy ceasefire”"
+   ],
+   "body": [
+    "Fuel stations across Ghana will adjust pump prices for petrol, diesel and cooking gas on Friday, 16 October.",
+    "MyJoyOnline first reported that the Chamber of Oil Marketing Companies expects petrol costs to drop by nearly two per cent to GH¢17.67 per litre, while diesel will decrease by 3.32 per cent to GH¢19.30 per litre."
+   ],
+   "more": 7,
+   "photo": "img/16055.jpg",
+   "credit": "MyJoyOnline",
+   "sources": [
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/petrol-diesel-prices-set-to-fall-from-oct-16-as-lpg-faces-18-5-hike/",
+     "title": "Petrol, diesel prices set to fall from Oct. 16 as LPG faces 18.5% hike"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/petrol-diesel-prices-set-to-fall-from-oct-16-as-lpg-faces-18-5-hike/",
+     "title": "Petrol, diesel prices set to fall from Oct. 16 as LPG faces 18.5% hike"
+    },
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/business-economy/313732-ghana-fuel-prices-petrol-diesel-fall-october-16-lpg-jumps-185-percent/",
+     "title": "Small relief for Ghanaians as petrol and diesel prices set to drop"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/fuel-prices-to-drop-from-october-16-but-lpg-set-to-rise-sharply-comac/",
+     "title": "Fuel prices to drop from October 16, but LPG set to rise sharply – COMAC"
+    }
+   ],
+   "outlets": 3,
+   "score": 14.74,
+   "created": "2026-10-14T21:17:03+00:00"
   },
   {
    "id": 165,
@@ -4683,6 +4893,40 @@
    "outlets": 2,
    "score": 7.78,
    "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
+   "id": 16758,
+   "headline": "Kenya confirms second Ebola case in relative of first patient",
+   "dek": "Health authorities in Nairobi isolated the 39-year-old relative before symptoms appeared following contact with the nation's index patient.",
+   "category": "Health",
+   "desk": "world",
+   "risk_note": "",
+   "reason": "People died. Check names, numbers and tone; families will read this.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Kenya's Ministry of Health has confirmed a second Ebola case in a 39-year-old man in quarantine.",
+    "Al Jazeera reported on Wednesday that the patient is a close relative of Kenya's first Ebola case, who died at a Nairobi hospital."
+   ],
+   "more": 6,
+   "photo": "img/16758.jpg",
+   "credit": "Al Jazeera",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
+     "title": "Kenya’s health ministry confirms second Ebola case"
+    },
+    {
+     "outlet": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnB0VUNhaE9mWmNPNmJLbl80d2g3WXdKcU5hLUxHYVFaLXllSWNZeUI5Q1FJRjNtdjN4clpNTWRJR3VNUHhDUXJtcGQyWTYybGhpSUU0eHdKWFg2alVPQ0hsQ01SYkJhS1pacGZ4VVBOVWZJQTRRMXVET2J0QldMOTRYWTR4UVJ5VXRtSDVUc0xnWEQzYVJNUGZpVGxDTWJxdlFfcXZ5VFQ4LWZ3cmN3X05sOWoyY0lyQ0lCQmUxSTBydDBNUHBBdkl4RQ?oc=5",
+     "title": "Kenya reports second Ebola case, family member of first patient"
+    }
+   ],
+   "outlets": 2,
+   "score": 7.3,
+   "created": "2026-10-14T21:17:03+00:00"
   },
   {
    "id": 14450,
