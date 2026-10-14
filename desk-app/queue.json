@@ -1,7 +1,7 @@
 {
  "station": "Sweet Melodies FM",
  "repo": "colabourers58-hue/sweet-melodies-newsroom",
- "generated": "2026-10-14T17:54:16+00:00",
+ "generated": "2026-10-14T19:31:35+00:00",
  "stories": [
   {
    "id": 14453,
@@ -33,6 +33,35 @@
    "created": "2026-10-14T17:19:57+00:00"
   },
   {
+   "id": 15779,
+   "headline": "Pastor Nathaniel Bassey Leads Day 2 of October 2026 Hallelujah Challenge",
+   "dek": "Believers joined Pastor Nathaniel Bassey online for Day 2 of the Hallelujah Challenge worship gathering.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Pastor Nathaniel Bassey hosted Day 2 of the October 2026 Hallelujah Challenge, an inter-denominational virtual gathering for Christians. The ministry explains that the initiative primarily educates and edifies believers on their personal relationship with God through spontaneous worship and the guidance of the Holy Spirit.",
+    "The virtual sessions feature non-commercial worship music aimed at personal spiritual growth and Christian fellowship. Viewers and listeners can watch the full recorded worship session online below."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/Dvp9hyZW2Ys/maxresdefault.jpg",
+   "credit": "Nathaniel Bassey Main (YouTube)",
+   "sources": [
+    {
+     "outlet": "Nathaniel Bassey Main",
+     "url": "https://www.youtube.com/watch?v=Dvp9hyZW2Ys",
+     "title": "HALLELUJAH CHALLENGE || OCT 2026 || DAY 2"
+    }
+   ],
+   "outlets": 1,
+   "score": 3146.109,
+   "created": "2026-10-14T19:06:15+00:00"
+  },
+  {
    "id": 14454,
    "headline": "Ohemaa Mercy Releases Live Worship Video 'Songs Of Revival'",
    "dek": "Gospel minister Ohemaa Mercy has released 'Songs Of Revival,' recorded live at Tehilla Experience 2025.",
@@ -62,6 +91,35 @@
    "created": "2026-10-14T17:20:09+00:00"
   },
   {
+   "id": 15780,
+   "headline": "Ohemaa Mercy Ministries holds Tehillah 2025: The Revival Experience",
+   "dek": "Ohemaa Mercy Ministries hosted Tehillah 2025 at The Maker’s House Chapel for an evening of worship and the Word.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Ohemaa Mercy Ministries has held 'Tehillah 2025: The Revival Experience' at The Maker’s House Chapel on Sunday, 14th September. The event kicked off at 5:00 PM GMT, drawing worshippers for an evening focused on praise and the Word of God.",
+    "According to the ministry, the programme was designed as a life-changing encounter to bring revival, healing, restoration, and a fresh touch from God through worship. The full worship gathering was broadcast live for viewers joining online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/LBn0Fmq21gc/maxresdefault.jpg",
+   "credit": "Ohemaa Mercy (YouTube)",
+   "sources": [
+    {
+     "outlet": "Ohemaa Mercy",
+     "url": "https://www.youtube.com/watch?v=LBn0Fmq21gc",
+     "title": "TEHILLAH 2025 - THE REVIVAL EXPERIENCE"
+    }
+   ],
+   "outlets": 1,
+   "score": 117.124,
+   "created": "2026-10-14T19:06:28+00:00"
+  },
+  {
    "id": 14455,
    "headline": "Theophilus Sunday Hosts Day 2 of Tarry Abuja 2026",
    "dek": "Day 2 of the Tarry Abuja 2026 gathering tagged Battle Axe has taken place.",
@@ -89,6 +147,35 @@
    "outlets": 1,
    "score": 79.799,
    "created": "2026-10-14T17:20:21+00:00"
+  },
+  {
+   "id": 15781,
+   "headline": "Theophilus Sunday and 1Spirit Hold Day Two of Tarry Abuja",
+   "dek": "Gospel minister Theophilus Sunday and 1Spirit hosted the second day of the Tarry Abuja worship programme.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Gospel minister Theophilus Sunday, alongside the 1Spirit team, held the second day of the 'Tarry Abuja' worship programme on 15 November 2025.",
+    "According to the ministry, the gathering forms part of a mandate to make men spirits through the ministry of worship and to answer a call to spirithood. The organizers stated that the initiative aims to prepare people for the kingdom of God by spreading the gospel to the ends of the earth. The full session is available to watch online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/Rporym-KhDc/maxresdefault.jpg",
+   "credit": "THEOPHILUS SUNDAY (YouTube)",
+   "sources": [
+    {
+     "outlet": "THEOPHILUS SUNDAY",
+     "url": "https://www.youtube.com/watch?v=Rporym-KhDc",
+     "title": "Tarry Abuja || Day 2 || Theophilus Sunday & 1Spirit || 15 November 2025"
+    }
+   ],
+   "outlets": 1,
+   "score": 71.163,
+   "created": "2026-10-14T19:06:40+00:00"
   },
   {
    "id": 1,
@@ -322,6 +409,45 @@
    "outlets": 5,
    "score": 21.49,
    "created": "2026-10-14T08:42:53+00:00"
+  },
+  {
+   "id": 14572,
+   "headline": "Ghana hosts 10th World Assemblies of God Congress in Accra",
+   "dek": "More than 10,000 global delegates gather in Greater Accra as Africa hosts the church's triennial world meeting for the first time.",
+   "category": "Christian News",
+   "desk": "ghana",
+   "risk_note": "MyJoyOnline reported that the congress opens on Tuesday, 13 October, whereas Graphic Online and 3News report the event dates as Wednesday, 14 October to Friday, 16 October 2026.",
+   "reason": "MyJoyOnline reported that the congress opens on Tuesday, 13 October, whereas Graphic Online and 3News report the event dates as Wednesday, 14 October to Friday, 16 October 2026. The story mentions our own church family or the station. Make sure it reads as fair and is something we are comfortable carrying. The writer asked you to check: Sources 4 through 8 were live stream placeholders or video links without unique reporting content.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Over 10,000 participants representing upwards of 100 nations have assembled in Accra for the 10th World Assemblies of God Congress.",
+    "Graphic Online reported that the three-day gathering, ending on Friday, 16 October, marks the first time the global event is meeting in Africa. President John Dramani Mahama and First Lady Lordina Mahama are special guests of honour, with 18 state ministers confirming participation."
+   ],
+   "more": 5,
+   "photo": "img/14572.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/news/former-malawi-president-lazarus-chakwera-arrives-in-ghana-for-world-assemblies-of-god-congress",
+     "title": "Former Malawi President Lazarus Chakwera arrives in Ghana for World Assemblies of God Congress"
+    },
+    {
+     "outlet": "Graphic Online",
+     "url": "https://www.graphic.com.gh/news/general-news/ghana-news-assemblies-of-god-world-congress-begins-today.html",
+     "title": "Assemblies of God World Congress begins today"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/i-have-no-regrets-joining-assemblies-of-god-mahama/",
+     "title": "I have no regrets joining Assemblies of God – Mahama"
+    }
+   ],
+   "outlets": 5,
+   "score": 21.42,
+   "created": "2026-10-14T18:20:52+00:00"
   },
   {
    "id": 10929,
@@ -941,6 +1067,65 @@
    "created": "2026-10-14T14:31:18+00:00"
   },
   {
+   "id": 14898,
+   "headline": "High Court dismisses Afenyo-Markin defamation suit against Sammy Gyamfi",
+   "dek": "The court struck out the GH¢15 million case over procedural errors without ruling on whether the statements were defamatory.",
+   "category": "Politics",
+   "desk": "ghana",
+   "risk_note": "The story involves allegations of extortion and defamation between public figures, but strictly reports verified court rulings and neutral legal outcomes.",
+   "reason": "The story involves allegations of extortion and defamation between public figures, but strictly reports verified court rulings and neutral legal outcomes. Politics: a one-sided headline here can make the station look partisan. Check that both sides are fairly represented. The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "The High Court in Accra has thrown out a GH¢15 million libel action filed by Minority Leader Alexander Afenyo-Markin targeting GoldBod chief Sammy Gyamfi.",
+    "Graphic Online reported that the General Jurisdiction 1 division voided the originating writ and accompanying statement on Wednesday, 14 October 2026. The court found that the legal document failed to provide required details of the allegedly defamatory comments."
+   ],
+   "more": 5,
+   "photo": "img/14898.jpg",
+   "credit": "MyJoyOnline",
+   "sources": [
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/high-court-throws-out-afenyo-markins-gh%c2%a215m-defamation-suit-against-sammy-gyamfi/",
+     "title": "High Court throws out Afenyo-Markin’s GH¢15m defamation suit against Sammy Gyamfi"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/high-court-throws-out-afenyo-markins-gh%c2%a215m-defamation-suit-against-sammy-gyamfi/",
+     "title": "High Court throws out Afenyo-Markin’s GH¢15m defamation suit against Sammy Gyamfi"
+    },
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/ghana/313760-high-court-throws-afenyo-markins-ghc15-million-defamation-suit-sammy-gyamfi/",
+     "title": "Afenyo-Markin falls flat in court, case against Sammy Gyamfi thrown out"
+    },
+    {
+     "outlet": "The High Street Journal",
+     "url": "https://thehighstreetjournal.com/afenyo-markins-gh%c2%a215m-defamation-suit-against-sammy-gyamfi-fails-on-procedural-grounds/",
+     "title": "Afenyo-Markin’s GH¢15m Defamation Suit Against Sammy Gyamfi Fails on Procedural Grounds"
+    },
+    {
+     "outlet": "Graphic Online",
+     "url": "https://www.graphic.com.gh/news/general-news/high-court-throws-out-afenyo-markins-defamation-suit-against-sammy-gyamfi-on-grounds-of-defective-action.html",
+     "title": "High Court throws out Afenyo Markin’s defamation suit against Sammy Gyamfi on grounds of 'defective action'"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/afenyo-markin-failed-to-comply-with-procedural-rules-in-defamation-suit-sammy-gyamfis-lawyers/",
+     "title": "Afenyo-Markin failed to comply with procedural rules in defamation suit – Sammy Gyamfi’s lawyers"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/procedural-errors-rendered-afenyo-markins-gh%c2%a215m-defamation-suit-incompetent-sammy-gyamfis-lawyers/",
+     "title": "Procedural errors rendered Afenyo-Markin’s GH¢15m defamation suit incompetent – Sammy Gyamfi’s lawyers"
+    }
+   ],
+   "outlets": 5,
+   "score": 16.83,
+   "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
    "id": 12458,
    "headline": "Customary ownership accounts for 80 per cent of Ghana land, Lands Commission says",
    "dek": "Disagreements over family leadership and double sales of plots continue to create risk for home buyers and developers across the country.",
@@ -1264,6 +1449,60 @@
    "outlets": 4,
    "score": 16.13,
    "created": "2026-10-13T19:17:40+00:00"
+  },
+  {
+   "id": 14770,
+   "headline": "Duane Davis sentenced to 40 years to life for 1996 murder of Tupac Shakur",
+   "dek": "A Las Vegas judge handed down the prison sentence nearly three decades after the drive-by shooting of the hip-hop icon.",
+   "category": "Entertainment",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "A Las Vegas court has sentenced former gang leader Duane Davis to a term of forty years to life behind bars for planning the 1996 fatal shooting of rapper Tupac Shakur.",
+    "Graphic Online first reported the court ruling on Tuesday, 13 October, with later coverage from Adom News, MyJoyOnline, 3News, and Yen.com.gh. A jury found the 63-year-old guilty of murder in late August after deliberating for less than three hours."
+   ],
+   "more": 5,
+   "photo": "img/14770.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "Graphic Online",
+     "url": "https://www.graphic.com.gh/news/general-news/duane-davis-sentenced-to-40-years-to-life-for-the-death-of-tupac-shakur.html",
+     "title": "Duane Davis sentenced to 40 years to life in prison for the death of Tupac Shakur"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/ex-gang-boss-sentenced-to-40-years-for-orchestrating-tupac-shakurs-murder/",
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur’s murder"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/ex-gang-boss-sentenced-to-40-years-for-orchestrating-tupac-shakurs-murder/",
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur’s murder"
+    },
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/world/ex-gang-boss-sentenced-to-40-years-for-orchestrating-tupac-shakurs-murder",
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur’s murder"
+    },
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/entertainment/celebrities/313746-duane-keffe-d-davis-sentenced-40-years-life-tupac-shakurs-death/",
+     "title": "Duane ‘Keffe D’ Davis given hefty prison sentence over the 1996 death of Tupac Shakur"
+    },
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/entertainment/celebrities/313765-tupac-shakurs-sister-sekyiwa-breaks-tears-keffe-d-sentenced-40-years/",
+     "title": "Keffe D sentenced to 40 years as Tupac’s sister delivers emotional court speech"
+    }
+   ],
+   "outlets": 5,
+   "score": 16.13,
+   "created": "2026-10-14T18:20:52+00:00"
   },
   {
    "id": 5544,
@@ -2971,6 +3210,37 @@
    "created": "2026-10-10T17:31:14+00:00"
   },
   {
+   "id": 15709,
+   "headline": "Sharon KC prepares to release new praise single Odogwu",
+   "dek": "Gospel artist Sharon KC is set to launch a praise single titled Odogwu, according to music platform SelahAfrik.",
+   "category": "Music",
+   "desk": "music",
+   "risk_note": "",
+   "reason": "Only one outlet reported this, so we cannot confirm it from a second source.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "only 83 words"
+   ],
+   "body": [
+    "Gospel music publication SelahAfrik reported that artist Sharon KC is preparing to release a new praise single titled Odogwu.",
+    "According to the publication, the upcoming song is intended to deliver a sound of praise to Christian listeners and music followers."
+   ],
+   "more": 3,
+   "photo": null,
+   "credit": null,
+   "sources": [
+    {
+     "outlet": "SelahAfrik",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jUGZ5bmI0TUx6NzNTNnd2V0tsXzdBYkl6QlZ1cG9GbTVXTmdpQzJLZ1pGcmpSU1U1a0J3OGwzRHMySkxxWGNMTTNkUTZCTHhWTk91RTRSRUxtQklM0gFiQVVfeXFMTmc5SEF0UDJJM3BNTWZRUVVsZG9ONV9keHB3Z00wbmZJY3JjbkJ1SkMxU3dnMkkxdzFRYmowZXRJUVloQXIzMXdMb1dRMk5ackpWQXdJeEw1WDZfLUhSOXJBR3c?oc=5",
+     "title": "#SelahMusicVid: Sharon KC Brings A Sound Of Praise With Upcoming Single “Odogwu”"
+    }
+   ],
+   "outlets": 1,
+   "score": 11.25,
+   "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
    "id": 10615,
    "headline": "Greta Thunberg joins French high school student protests in Paris",
    "dek": "Swedish activist Greta Thunberg has joined students demonstrating across France over poor school conditions, teacher shortages, and crowded class schedules.",
@@ -3664,6 +3934,35 @@
    "created": "2026-10-11T05:46:14+00:00"
   },
   {
+   "id": 15708,
+   "headline": "Gospel musician Amethyst releases new project titled MORE",
+   "dek": "The new release marks a fresh direction in gospel pop music, according to a report by The Hype Magazine.",
+   "category": "Music",
+   "desk": "music",
+   "risk_note": "",
+   "reason": "Only one outlet reported this, so we cannot confirm it from a second source.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Gospel artist Amethyst has unveiled a new music project titled MORE, according to a report by The Hype Magazine.",
+    "The Hype Magazine reported that the release represents a bold new chapter for the musician within the gospel pop music genre."
+   ],
+   "more": 3,
+   "photo": null,
+   "credit": null,
+   "sources": [
+    {
+     "outlet": "The Hype Magazine",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzJQeU9VT2RLVGJ2cmZTS2lwQzdvVlduckdaTUlGTnFhR0FTV1lPQWsyb240a3NHRXlXcGpJWGRoV3VfUmxOc1E4bDFpOFBJcFdQMndPRzNuNEdrUDV6dWZ1OURJcmxadVFKWkk2djhfTC14UVBfYzJ4b0hodkFJbg?oc=5",
+     "title": "Amethyst Unveils “MORE”: A Bold New Chapter in Gospel Pop"
+    }
+   ],
+   "outlets": 1,
+   "score": 10.2,
+   "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
    "id": 489,
    "headline": "Cyber Security Authority rejects FBI claims over Ghana cybercrime operation",
    "dek": "Ghanaian officials state local security agencies led Operation Blackout, which rescued one hundred and twenty victims.",
@@ -4178,6 +4477,45 @@
    "created": "2026-10-12T00:32:24+00:00"
   },
   {
+   "id": 15261,
+   "headline": "Houthis hit Saudi Aramco offices as regional conflict escalates",
+   "dek": "A fire broke out at the oil firm's Dhahran facility while flight suspensions expand and international leaders warn of global economic effects.",
+   "category": "World",
+   "desk": "world",
+   "risk_note": "",
+   "reason": "People died. Check names, numbers and tone; families will read this.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Yemen's Houthi movement struck an administrative building belonging to Saudi Aramco in Dhahran, causing a fire on Tuesday.",
+    "Al Jazeera reported that Saudi Arabia's Ministry of Energy confirmed the attack in the eastern city of Dhahran. Energy officials told the Saudi Press Agency that emergency services contained the blaze and no casualties occurred at the state oil company's headquarters."
+   ],
+   "more": 5,
+   "photo": "img/15261.jpg",
+   "credit": "Al Jazeera",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+     "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict"
+    },
+    {
+     "outlet": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
+     "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit"
+    },
+    {
+     "outlet": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+     "title": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say"
+    }
+   ],
+   "outlets": 3,
+   "score": 8.24,
+   "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
    "id": 3959,
    "headline": "Ukrainian drone attack shuts down Yandex data centre in Vladimir",
    "dek": "Operations at a major Russian technology facility are suspended following a third strike in one week on the network.",
@@ -4306,6 +4644,45 @@
    "outlets": 1,
    "score": 7.87,
    "created": "2026-10-13T02:36:36+00:00"
+  },
+  {
+   "id": 15345,
+   "headline": "Ukraine Accuses SpaceX of Throttling Starlink Satellite Services",
+   "dek": "Speed limits placed on moving satellite terminals disrupted drone defenses and frontline military operations across the country.",
+   "category": "World",
+   "desk": "world",
+   "risk_note": "",
+   "reason": "The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Officials in Ukraine accused SpaceX of limiting Starlink satellite internet services, disrupting military operations and drone defense missions across the country, Al Jazeera reported.",
+    "Ukrainian defence technology adviser Serhii Beskrestnov stated on Telegram that service was limited overnight on Wednesday for terminals travelling over 100 mph. He explained that the speed cap prevented Ukrainian forces from piloting drones used to defend against incoming Shahed drone attacks."
+   ],
+   "more": 6,
+   "photo": "img/15345.jpg",
+   "credit": "Al Jazeera",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
+     "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals"
+    },
+    {
+     "outlet": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
+     "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says"
+    },
+    {
+     "outlet": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmVTMHFJSVptMmRyQVZ3bTNtYktTRldrczlZUUF6dFBmZnl3WDRvcVpJOEU1azE3OEZlUXg2d005UGpnZ2NTR08tRC1xbmtMZVc4eldhb1ZaV1k3bVV1TXZ0VENlWWQ5MGduMk51dUNQVDJaaTNyRDk2dXB0X2xLT2FsNFRpemlybjZfZXlTei1TZEo5d2xLVmRUNTRJUkhhZEVZeWpBcHZrZ21VZFBYMVl6LTVHY2k2MkhFZnJ3RU9KS0Rs?oc=5",
+     "title": "Ukraine accuses SpaceX of crippling drone missions as ties with US worsen"
+    }
+   ],
+   "outlets": 2,
+   "score": 7.78,
+   "created": "2026-10-14T18:20:52+00:00"
   },
   {
    "id": 14450,
@@ -4867,6 +5244,35 @@
    "outlets": 1,
    "score": -18.26,
    "created": "2026-10-11T05:46:14+00:00"
+  },
+  {
+   "id": 15562,
+   "headline": "Cuban authorities arrest Protestant pastor over public prayer event",
+   "dek": "Human rights group Christian Solidarity Worldwide calls for the release of Maikel Pupo Velázquez while his teenage daughter remains in hospital.",
+   "category": "Christian News",
+   "desk": "music",
+   "risk_note": "",
+   "reason": "Only one outlet reported this, so we cannot confirm it from a second source. A legal or police matter: describe it exactly as the authorities or the court did, and do not suggest anyone is guilty before a court says so.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "State security agents in Cuba arrested Protestant pastor Maikel Pupo Velázquez in Camagüey province, charging him with disobedience over a planned prayer meeting.",
+    "The Christian Post reported that the arrest occurred on Friday, 26 September, after the minister tried to turn away young worshippers following an official cancellation order."
+   ],
+   "more": 6,
+   "photo": "img/15562.jpg",
+   "credit": "The Christian Post",
+   "sources": [
+    {
+     "outlet": "The Christian Post",
+     "url": "https://www.christianpost.com/news/protestant-pastor-imprisoned-in-cuba-for-prayer-event.html",
+     "title": "Pastor imprisoned in Cuba for prayer event while daughter is in hospital"
+    }
+   ],
+   "outlets": 1,
+   "score": -18.65,
+   "created": "2026-10-14T18:20:52+00:00"
   },
   {
    "id": 10798,
