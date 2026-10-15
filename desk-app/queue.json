@@ -1,7 +1,7 @@
 {
  "station": "Sweet Melodies FM",
  "repo": "colabourers58-hue/sweet-melodies-newsroom",
- "generated": "2026-10-14T21:59:55+00:00",
+ "generated": "2026-10-15T00:57:33+00:00",
  "stories": [
   {
    "id": 14453,
@@ -89,6 +89,35 @@
    "outlets": 1,
    "score": 3076.625,
    "created": "2026-10-14T21:31:59+00:00"
+  },
+  {
+   "id": 18270,
+   "headline": "Pastor Nathaniel Bassey Leads Day 5 of October 2026 Hallelujah Challenge",
+   "dek": "The virtual inter-denominational gathering brought believers together for an online session of spiritual edification and worship.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Pastor Nathaniel Bassey has hosted Day 5 of the October 2026 edition of the Hallelujah Challenge, an inter-denominational gathering of believers held on virtual platforms.",
+    "According to the ministry, the program seeks to educate and edify Christians in their relationship with God through music and the guidance of the Holy Spirit. The full worship session can be watched below."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/SN4z3UyvFVE/maxresdefault.jpg",
+   "credit": "Nathaniel Bassey Main (YouTube)",
+   "sources": [
+    {
+     "outlet": "Nathaniel Bassey Main",
+     "url": "https://www.youtube.com/watch?v=SN4z3UyvFVE",
+     "title": "HALLELUJAH CHALLENGE || OCT 2026 || DAY 5"
+    }
+   ],
+   "outlets": 1,
+   "score": 2896.483,
+   "created": "2026-10-15T00:34:56+00:00"
   },
   {
    "id": 14454,
@@ -263,6 +292,63 @@
    "outlets": 1,
    "score": 54.629,
    "created": "2026-10-14T21:32:25+00:00"
+  },
+  {
+   "id": 18271,
+   "headline": "Minister Theophilus Sunday Holds Tarry Nyanya 2026 Day 1",
+   "dek": "Gospel minister Theophilus Sunday has hosted Day 1 of the Tarry Nyanya 2026 worship gathering.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Gospel minister Theophilus Sunday has held Day 1 of Tarry Nyanya 2026, centered on the theme 'Midwives.' According to the ministry, its mandate focuses on making men as God through worship and calling individuals to spirithood, as well as converting and preparing people for the kingdom of God by spreading the gospel to the ends of the earth. The full service can be watched below."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/BygWbBDTFBo/maxresdefault.jpg",
+   "credit": "THEOPHILUS SUNDAY (YouTube)",
+   "sources": [
+    {
+     "outlet": "THEOPHILUS SUNDAY",
+     "url": "https://www.youtube.com/watch?v=BygWbBDTFBo",
+     "title": "TARRY NYANYA 2026 || MIDWIVES || DAY 1 || THEOPHILUS SUNDAY"
+    }
+   ],
+   "outlets": 1,
+   "score": 40.602,
+   "created": "2026-10-15T00:35:08+00:00"
+  },
+  {
+   "id": 18272,
+   "headline": "Salvation Ministries Begins Ghana Miracle Crusade 2026",
+   "dek": "Presiding Pastor David Ibiyeomie leads the opening session of the Ghana Miracle Crusade.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Salvation Ministries has held Day One of its Ghana Miracle Crusade on Friday, October 2, 2026. The program featured expository teaching led by the ministry's Presiding Pastor, David Ibiyeomie.",
+    "According to the ministry, the crusade offers teaching aimed at life transformation, with expectations of prophetic ministry, healing, restoration, and deliverance. The full broadcast of the service is available to watch online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/6q8I-zsbRf0/maxresdefault.jpg",
+   "credit": "Salvation Ministries (YouTube)",
+   "sources": [
+    {
+     "outlet": "Salvation Ministries",
+     "url": "https://www.youtube.com/watch?v=6q8I-zsbRf0",
+     "title": "GHANA MIRACLE CRUSADE | DAY 1 | FRIDAY, 2ND OCTOBER 2026"
+    }
+   ],
+   "outlets": 1,
+   "score": 29.726,
+   "created": "2026-10-15T00:35:21+00:00"
   },
   {
    "id": 1,
@@ -535,6 +621,57 @@
    "outlets": 5,
    "score": 21.42,
    "created": "2026-10-14T18:20:52+00:00"
+  },
+  {
+   "id": 17171,
+   "headline": "President Mahama opens 85-bed block at Police Hospital",
+   "dek": "Two new ambulances and extra beds will improve emergency healthcare for security officers and residents in Greater Accra.",
+   "category": "Health",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines. A legal or police matter: describe it exactly as the authorities or the court did, and do not suggest anyone is guilty before a court says so.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "2 nine-word run(s) copied from a source, e.g. “christian tetteh yohuno welcomed the new facility describing it”"
+   ],
+   "body": [
+    "President John Dramani Mahama dedicated an 85-bed healthcare structure at the Police Hospital in Accra on Tuesday, 13 October 2026.",
+    "MyJoyOnline reported that the unit was designated as the Christian Tetteh Yohuno Ward Complex to honour the Inspector-General of Police. The expanded wing will treat security personnel, their dependents and civilian patients from across the Greater Accra Region."
+   ],
+   "more": 5,
+   "photo": "img/17171.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/news/president-mahama-commends-police-service-commissions-85-bed-ward-complex-at-police-hospital",
+     "title": "President Mahama commends police service, commissions 85-bed ward complex at Police Hospital"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/photos-mahama-commissions-85-bed-police-hospital-ward-donates-two-ambulances/",
+     "title": "Photos: Mahama commissions 85-bed Police Hospital ward, donates two ambulances"
+    },
+    {
+     "outlet": "Ghana News Agency",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUZJbEx5ZTl1dEVkRUhOVTF0ZjlTTGZEYnRjUkd6ZVBLQ0FQUURmSXYxNl9aYVdneTZaZnZKNXZZUjEzYzN2S2E4c3htZzc0V2dVLTVBVno4Y1dKOGZuX3hUMzl0NHZPWmI5Wm1xbjdoQVZwQnlMeDFnZTJCamJlLWkyWEZIblViOThxTkhEU0k1RUthLXZMSEJ0cklHTkxpRmpCNw?oc=5",
+     "title": "Mahama commissions Christian Tetteh Yohuno Ward Complex at Police Hospital"
+    },
+    {
+     "outlet": "Ministry of the Interior",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmZaNkw2VzNVbTZhSnpDbjJieXo4Q244cnZxRTZVcnBhRDVqT2UxSmZFQkJfb2FGS2g0TE90ZVpDRzk0SW9Ub1o5aUVwVDVlTm9VczRneF9MSkxhR2tKWHFjNzdZTTV5dXJtZ1pveV9ONlVhd3BVV0diME1Yc2Jzby1teDJDaGZFVDdUTEJROFVqd2N4Znc?oc=5",
+     "title": "President Mahama Commissions New 85-Bed Police Hospital Ward"
+    },
+    {
+     "outlet": "Graphic Online",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnBNTWxOcGU1VEYzd2tJM2xKMVlJRWw2N2gwbE91YVByUXBoTDBveDdGWWhiWUpkYlVOR3JjZlR3U05ra25pdndsZ3V2ZENVN1p3THNoVjYtdmxPSTFTdnI5LW1WS2dITHRyNkRSYW5YdWsxbzZEMXBfSVk5Rnp4U2l1QlJhbzF6cWg3SUVLT0lRVVUwak9jWTVpUU90dTZ0a1ctYnJScW03MlYybWFHNEV4U1hVSUhHc29QQjBFeHdqRFRoN0pvT1pJVTZ1dXZwXzFHZXplWjd4RkxFSnNZ?oc=5",
+     "title": "Ghana safer now than before - President Mahama at inauguration of 85-bed Police Hospital block"
+    }
+   ],
+   "outlets": 5,
+   "score": 20.6,
+   "created": "2026-10-15T00:19:42+00:00"
   },
   {
    "id": 10929,
@@ -1492,6 +1629,73 @@
    "created": "2026-10-13T19:17:40+00:00"
   },
   {
+   "id": 16999,
+   "headline": "Ghana beat Mauritius 7-0 to advance in 2028 Olympic qualifiers",
+   "dek": "The Black Queens secure a ten-nil aggregate win and will meet Zambia in the third round of qualifying.",
+   "category": "Sport",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "A figure in the story (45 m) does not appear in any of the reports we used. It may be wrong; check it or remove it. A quotation could not be found word for word in the reports. Putting words in someone's mouth is the fastest way to be accused of misquoting; check it or remove it. The story mentions our own church family or the station. Make sure it reads as fair and is something we are comfortable carrying. The writer asked you to check: Sources disagree on second-half goal scorers: 3News reported Mukarama Abdulai scored twice including a goal in the 73rd minute, whereas MyJoyOnline and Adom News reported Benedicte Simon scored in the 73rd minute and Abdulai scored once late.",
+   "church_leader": false,
+   "blocked": [
+    "“45 m” is not in any source",
+    "quote not found verbatim: “I believe in the girls, and I think we will be there.”"
+   ],
+   "warnings": [],
+   "body": [
+    "Ghana’s Black Queens beat Mauritius 7-0 at the Essipong Stadium in Sekondi on Tuesday, 13 October, securing a 10-0 aggregate win in the 2028 Olympic qualifiers.",
+    "The national team entered the home match in the Western Region holding a 3-0 advantage from the first leg played in Mauritius, according to reports from 3News, MyJoyOnline, and Adom News."
+   ],
+   "more": 5,
+   "photo": "img/16999.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/sports/total-dominance-black-queens-thrash-mauritius-7-0-to-reach-olympic-qualifying-third-round",
+     "title": "Total Dominance: Black Queens thrash Mauritius 7-0 to reach Olympic qualifying third round"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/black-queens-thrash-mauritius-7-0-to-advance-10-0-on-aggregate-in-olympic-qualifiers/",
+     "title": "Black Queens thrash Mauritius 7-0 to advance 10-0 on aggregate in Olympic Qualifiers"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/black-queens-thrash-mauritius-7-0-to-reach-third-round-of-olympic-qualifiers/",
+     "title": "Black Queens thrash Mauritius 7-0 to reach third round of Olympic qualifiers"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/la-2028-black-queens-face-zambia-in-final-olympic-qualifier/",
+     "title": "LA 2028: Black Queens face Zambia in final Olympic qualifier"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/black-queens-to-face-zambia-in-final-round-of-2028-olympic-qualifiers/",
+     "title": "Black Queens to face Zambia in final round of 2028 Olympic qualifiers"
+    },
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/black-queens-will-qualify-for-2028-olympic-games-despite-tough-path-kim-lars-bjorkegren/",
+     "title": "Black Queens will qualify for 2028 Olympic Games despite tough path – Kim Lars Björkegren"
+    },
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/sports/la-2028-black-queens-face-zambia-in-olympic-qualifying-rematch",
+     "title": "LA 2028: Black Queens face Zambia in Olympic qualifying rematch"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/2028-olympic-games-qualification-really-tough-black-queens-coach-bjorkegren/",
+     "title": "2028 Olympic Games qualification ‘really tough’ – Black Queens coach Björkegren"
+    }
+   ],
+   "outlets": 4,
+   "score": 16.23,
+   "created": "2026-10-15T00:19:41+00:00"
+  },
+  {
    "id": 9104,
    "headline": "Wontumi pleads not guilty to amended charges in Exim Bank case",
    "dek": "The former NPP Ashanti Regional Chairman faces five counts over an alleged financial loss of more than GH¢30 million to the state bank.",
@@ -1646,6 +1850,42 @@
    "outlets": 4,
    "score": 15.98,
    "created": "2026-10-12T21:16:31+00:00"
+  },
+  {
+   "id": 17318,
+   "headline": "Ghana wins second UN Human Rights Council term with 173 votes",
+   "dek": "Member states vote to keep Ghana on the global human rights body for a three-year period starting in 2027.",
+   "category": "Politics",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines. Politics: a one-sided headline here can make the station look partisan. Check that both sides are fairly represented.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "2 nine-word run(s) copied from a source, e.g. “minister for foreign affairs samuel okudzeto ablakwa announced the”"
+   ],
+   "body": [
+    "Ghana won re-election to the United Nations Human Rights Council after receiving 173 votes during an assembly ballot on Wednesday, 14 October 2026.",
+    "Adom News reported on Wednesday, 14 October 2026, that the vote grants the nation a second consecutive three-year mandate on the international council from 2027 through 2029. The election outcome ensures Ghana retains its seat on the global panel responsible for protecting and promoting fundamental human rights across member states."
+   ],
+   "more": 5,
+   "photo": "img/17318.jpg",
+   "credit": "Adom News",
+   "sources": [
+    {
+     "outlet": "Adom News",
+     "url": "https://www.adomonline.com/ghana-secures-second-consecutive-term-on-un-human-rights-council-with-173-votes/",
+     "title": "Ghana secures second consecutive term on UN Human Rights Council with 173 votes"
+    },
+    {
+     "outlet": "MyJoyOnline",
+     "url": "https://www.myjoyonline.com/ghana-secures-second-consecutive-term-on-un-human-rights-council/",
+     "title": "Ghana secures second consecutive term on UN Human Rights Council"
+    }
+   ],
+   "outlets": 7,
+   "score": 15.65,
+   "created": "2026-10-15T00:19:42+00:00"
   },
   {
    "id": 6537,
@@ -2063,6 +2303,35 @@
    "created": "2026-10-14T21:17:03+00:00"
   },
   {
+   "id": 18182,
+   "headline": "Arkansas church choir sings Backstreet Boys song during worship service",
+   "dek": "A United Methodist church defends singing a 1999 pop hit during Sunday service after online criticism.",
+   "category": "Christian News",
+   "desk": "music",
+   "risk_note": "The story discusses online criticism of a church service performance, which may generate strong opinions among Christian listeners regarding appropriate church music.",
+   "reason": "The story discusses online criticism of a church service performance, which may generate strong opinions among Christian listeners regarding appropriate church music. Only one outlet reported this, so we cannot confirm it from a second source. The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "A church choir at Central United Methodist Church in Arkansas performed a Backstreet Boys pop song during a Sunday service, The Christian Post reported.",
+    "The performance took place on Sunday, 11 October, in Fayetteville, Arkansas, as part of a sermon series exploring generational differences in the church. According to The Christian Post, the choir rendered a choral version of the 1999 pop track titled \"I Want It That Way\"."
+   ],
+   "more": 6,
+   "photo": "img/18182.jpg",
+   "credit": "The Christian Post",
+   "sources": [
+    {
+     "outlet": "The Christian Post",
+     "url": "https://www.christianpost.com/news/umc-church-choir-sings-backstreet-boys-during-worship-service.html",
+     "title": "UMC church choir sings Backstreet Boys during worship service: 'Pretty awesome throwback jam'"
+    }
+   ],
+   "outlets": 1,
+   "score": 14.74,
+   "created": "2026-10-15T00:19:42+00:00"
+  },
+  {
    "id": 165,
    "headline": "Ghanaian teachers suspend two-week strike to resume classes Monday",
    "dek": "Public schools will reopen after government agreed to a clear payment schedule for promotion arrears and allowances.",
@@ -2102,6 +2371,35 @@
    "outlets": 2,
    "score": 14.68,
    "created": "2026-10-10T17:31:14+00:00"
+  },
+  {
+   "id": 18184,
+   "headline": "Calvary Chapel settles abuse lawsuit with former staff member for 12 million dollars",
+   "dek": "A California megachurch has agreed to the financial payout following allegations against a former pastor who denies wrongdoing.",
+   "category": "Christian News",
+   "desk": "music",
+   "risk_note": "This report details allegations of sexual assault and physical abuse against a named former pastor who maintains his innocence.",
+   "reason": "This report details allegations of sexual assault and physical abuse against a named former pastor who maintains his innocence. This story is critical of a church or a minister. Read it carefully: our policy is never to publish something that could unfairly harm a man of God, and only to run such a story if it is important, confirmed by several outlets, and fair to them. Only one outlet reported this, so we cannot confirm it from a second source. The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": true,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Calvary Chapel of Costa Mesa in California has agreed to pay 12 million dollars to settle a sexual assault lawsuit involving a former pastor.",
+    "The Christian Post reported that the settlement was reached one day before a scheduled trial in September. The lawsuit was filed in June 2024 by a former church employee who is a single mother of four."
+   ],
+   "more": 5,
+   "photo": "img/18184.jpg",
+   "credit": "The Christian Post",
+   "sources": [
+    {
+     "outlet": "The Christian Post",
+     "url": "https://www.christianpost.com/news/calvary-chapel-of-costa-mesa-agrees-to-pay-single-mom-12m.html",
+     "title": "Calvary Chapel of Costa Mesa agrees to pay single mom $12M to settle rape claim against ex-pastor"
+    }
+   ],
+   "outlets": 1,
+   "score": 14.43,
+   "created": "2026-10-15T00:19:42+00:00"
   },
   {
    "id": 9509,
@@ -5109,6 +5407,35 @@
    "created": "2026-10-11T05:46:14+00:00"
   },
   {
+   "id": 18228,
+   "headline": "Asona Royal Family calls for postponement of Gomoa Wassa Akwambo Festival",
+   "dek": "News Ghana reports that royal family members have asked organizers to delay the upcoming traditional Akwambo festival.",
+   "category": "Community",
+   "desk": "ent",
+   "risk_note": "",
+   "reason": "Only one outlet reported this, so we cannot confirm it from a second source.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "The Asona Royal Family has called for the postponement of the upcoming Gomoa Wassa Akwambo Festival, according to an initial report by News Ghana.",
+    "News Ghana reported that members of the royal family issued an official request asking community leaders and event organizers to delay the traditional festival."
+   ],
+   "more": 7,
+   "photo": null,
+   "credit": null,
+   "sources": [
+    {
+     "outlet": "News Ghana",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkFad0VEVjV2c3IwWTl2b0JISGVLVTJOTjZXMkdCcFZxN04ySkF4blZWZDNSLUUydGljeWN6bVYwblhLdzNOTldLZXVQOWhQWGpjRWsyd3NRaGI5R3RIUkU3N1FKSUhZWVBLM0MyR3RCTTZITUtCT1MySXFKTUt5b3VKOEVuV2wwZkxjSktLeVM4NG11Qzhad3lMaXhBNVRo?oc=5",
+     "title": "Asona Royal Family calls for postponement of Gomoa Wassa Akwambo Festival"
+    }
+   ],
+   "outlets": 1,
+   "score": 5.94,
+   "created": "2026-10-15T00:19:42+00:00"
+  },
+  {
    "id": 13036,
    "headline": "Chuck Royer releases new gospel track New Day",
    "dek": "The artist combines southern style with gospel influences in a new music release reported by Indie Boulevard Magazine.",
@@ -5254,6 +5581,39 @@
    "outlets": 1,
    "score": -13.89,
    "created": "2026-10-13T02:36:36+00:00"
+  },
+  {
+   "id": 18070,
+   "headline": "80,000 believers gather for prayer event at Texas stadium",
+   "dek": "Atlanta-based 2819 Church fills AT&T Stadium for its annual corporate prayer and worship gathering.",
+   "category": "Christian News",
+   "desk": "music",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines. A quotation could not be found word for word in the reports. Putting words in someone's mouth is the fastest way to be accused of misquoting; check it or remove it. Only one outlet reported this, so we cannot confirm it from a second source.",
+   "church_leader": false,
+   "blocked": [
+    "quote not found verbatim: “ and called out ”"
+   ],
+   "warnings": [
+    "3 nine-word run(s) copied from a source, e.g. “at at t stadium in arlington texas on saturday”"
+   ],
+   "body": [
+    "An estimated 80,000 Christians gathered at AT&T Stadium in Arlington, Texas, on Saturday for a massive corporate prayer and worship session hosted by 2819 Church.",
+    "The Christian Post reported that all free admission tickets for the gathering, titled ACCESS — That Powerful Hour of Prayer, were completely claimed within eight hours of release."
+   ],
+   "more": 7,
+   "photo": "img/18070.jpg",
+   "credit": "The Christian Post",
+   "sources": [
+    {
+     "outlet": "The Christian Post",
+     "url": "https://www.christianpost.com/news/80k-believers-gather-for-prayer-worship-in-texas.html",
+     "title": "80K believers gather for prayer, worship at AT&T Stadium with 2819 Church"
+    }
+   ],
+   "outlets": 1,
+   "score": -13.9,
+   "created": "2026-10-15T00:19:42+00:00"
   },
   {
    "id": 2055,
