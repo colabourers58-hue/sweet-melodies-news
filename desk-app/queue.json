@@ -1,7 +1,7 @@
 {
  "station": "Sweet Melodies FM",
  "repo": "colabourers58-hue/sweet-melodies-newsroom",
- "generated": "2026-10-15T00:57:33+00:00",
+ "generated": "2026-10-15T06:17:48+00:00",
  "stories": [
   {
    "id": 14453,
@@ -118,6 +118,35 @@
    "outlets": 1,
    "score": 2896.483,
    "created": "2026-10-15T00:34:56+00:00"
+  },
+  {
+   "id": 19495,
+   "headline": "Pastor Nathaniel Bassey Hosts Day 4 of October 2026 Hallelujah Challenge",
+   "dek": "The inter-denominational virtual worship session featured spontaneous music and online fellowship.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Pastor Nathaniel Bassey has held Day 4 of the October 2026 edition of the Hallelujah Challenge on virtual platforms.",
+    "The ministry describes the program as an inter-denominational gathering created to educate and edify believers in their relationship with God. According to the description, the sessions focus on spontaneous worship in music guided by the Holy Spirit to foster direct, one-on-one communication with God."
+   ],
+   "more": 1,
+   "photo": "https://i.ytimg.com/vi/hUWaCZzU31U/maxresdefault.jpg",
+   "credit": "Nathaniel Bassey Main (YouTube)",
+   "sources": [
+    {
+     "outlet": "Nathaniel Bassey Main",
+     "url": "https://www.youtube.com/watch?v=hUWaCZzU31U",
+     "title": "HALLELUJAH CHALLENGE || OCT 2026 || DAY 4"
+    }
+   ],
+   "outlets": 1,
+   "score": 2850.224,
+   "created": "2026-10-15T04:53:15+00:00"
   },
   {
    "id": 14454,
@@ -351,6 +380,35 @@
    "created": "2026-10-15T00:35:21+00:00"
   },
   {
+   "id": 19496,
+   "headline": "Royalhouse Chapel Holds Day 1 of Convention of Saints 2026",
+   "dek": "Royalhouse Chapel International has commenced its Convention of Saints 2026 at The Oil Dome.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Royalhouse Chapel International has officially kicked off Day 1 of the Convention of Saints 2026 (#COS2026) on September 29, 2026. The opening service was held at The Oil Dome, gathering the church family for a time of prayer and fellowship.",
+    "Led by esteemed ministers, including Apostle General Sam Korankye Ankrah, the broadcast featured fervent prayer and word ministration. The ministry invited attendees to seek divine encounters and supernatural breakthroughs. The complete opening service is available to watch online."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/G36RnqG2FvA/maxresdefault.jpg",
+   "credit": "Royalhouse Chapel (PowerlineTV) (YouTube)",
+   "sources": [
+    {
+     "outlet": "Royalhouse Chapel (PowerlineTV)",
+     "url": "https://www.youtube.com/watch?v=G36RnqG2FvA",
+     "title": "🔴 LIVE | Convention of Saints 2026 | Day 1 | 29. 09. 26 | #COS2026"
+    }
+   ],
+   "outlets": 1,
+   "score": 25.092,
+   "created": "2026-10-15T04:54:30+00:00"
+  },
+  {
    "id": 1,
    "headline": "Ghana Tourism Authority denies taking money for World Cup visas",
    "dek": "The Minority wants GTA chief Maame Efua Houadjeto suspended over a list that tied more than 30 people to a board of about 11.",
@@ -541,6 +599,35 @@
    "outlets": 6,
    "score": 22.61,
    "created": "2026-10-12T00:32:24+00:00"
+  },
+  {
+   "id": 19497,
+   "headline": "Mabel Okyere Holds Anuonyam Concert in Suame-Kumasi",
+   "dek": "Mabel Okyere Music hosted the Anuonyam Concert at the Redemption Assemblies of God in Suame–Kumasi.",
+   "category": "Church & Ministry",
+   "desk": "church",
+   "risk_note": "",
+   "reason": "church programme write-up",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Mabel Okyere Music has hosted the Anuonyam Concert at the Redemption Assemblies of God Church in Suame–Kumasi.",
+    "The worship gathering brought attendees together for a time of praise, worship, and spiritual expectation. Viewers can watch the full event recording on the official Mabel Okyere Music YouTube channel."
+   ],
+   "more": 0,
+   "photo": "https://i.ytimg.com/vi/UaE-lA6BLi4/maxresdefault.jpg",
+   "credit": "Mabel Okyere Music (YouTube)",
+   "sources": [
+    {
+     "outlet": "Mabel Okyere Music",
+     "url": "https://www.youtube.com/watch?v=UaE-lA6BLi4",
+     "title": "Mabel Okyere Music || Anuonyam Concert"
+    }
+   ],
+   "outlets": 1,
+   "score": 22.206,
+   "created": "2026-10-15T04:54:41+00:00"
   },
   {
    "id": 10967,
@@ -2371,6 +2458,62 @@
    "outlets": 2,
    "score": 14.68,
    "created": "2026-10-10T17:31:14+00:00"
+  },
+  {
+   "id": 18630,
+   "headline": "University of Ghana unions march against security outsourcing plans",
+   "dek": "Four staff unions at Legon are demanding an immediate halt to plans to hand campus security over to a private firm.",
+   "category": "Education",
+   "desk": "ghana",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "2 nine-word run(s) copied from a source, e.g. “fussag the senior staff association of universities of ghana”"
+   ],
+   "body": [
+    "Four staff unions at the University of Ghana marched across campus in the Greater Accra Region on Wednesday, 14 October 2026, to petition management against outsourcing security services.",
+    "The protest brought together members of the Teachers and Educational Workers Union, FUSSAG, the Senior Staff Association of Universities of Ghana, and PUDUSAG, 3News reported. The allied labour groups are urging university authorities to stop plans to hire a private firm named Possibility Security."
+   ],
+   "more": 4,
+   "photo": "img/18630.jpg",
+   "credit": "3News",
+   "sources": [
+    {
+     "outlet": "Yen.com.gh",
+     "url": "https://yen.com.gh/people/313779-university-ghana-joint-unions-oppose-privatisation-campus-security-services/",
+     "title": "University of Ghana joint unions oppose privatisation of campus security services"
+    },
+    {
+     "outlet": "3News",
+     "url": "https://3news.com/education/four-university-of-ghana-unions-demand-halt-to-campus-security-outsourcing",
+     "title": "Four University of Ghana unions demand halt to campus security outsourcing"
+    },
+    {
+     "outlet": "CitiNewsroom.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeW5NVG9LVVlMOGIwSzZXOGJlZGRXc0tXV0ttcTVOYVpjdGRuR1pTcHZoRUNMZW5JZ0VCYUVmZkQ3X0FpVkFmN3NTUzM5WHVRYXFIMzVWVGVBOVlmcXBVaGw0RWs4Tl82bGY0VWZxcVZfb1QwdzFlQVdraTRoZ1BybXhHdklKVXVlQW82NU5hN1c3eGx2RFVnUjE0dEJYa3VMOEticzRCM3FXXzFQbGZr?oc=5",
+     "title": "UG Joint Unions oppose planned privatisation of campus security services"
+    },
+    {
+     "outlet": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCYmdpVEdtdDB5WEhoalg1ZnhiWGthTnpqQXoyTEpmVmRsZXBISjlPbE5IRGc5WXJaQXp0cDJLUnNJd0VvUW9OTE94azFBaFIzeWtCYnJ3ci1xR3J6UlZLYkZvd9IBXEFVX3lxTE83OVNvWFFIbmNqeUU0dkp1Q1kycERmbmxDQXpfZnBvTkJWY1c2bVFfU1NrSm1iU0lObEpXbmFkb0JOaGRRMkdvdHVoRTV3TEdSU2tVLTJYM1kxSDNl?oc=5",
+     "title": "TEWU-UG Warns Against Privatisation of University of Ghana Campus Security"
+    },
+    {
+     "outlet": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxWmdmOFlabXpCbV9kbmZrY3JGT3FzWlJxLVZUVVFJSE9UR0FtOURFQVYtdnk4eVc0d2ZqZDN5QW5INkdKazZJRktwSU1hYXkwcWhWenpWRzUtOU9STkRxVXd3NNIBXEFVX3lxTE5hcElTMGgxQW85U1ZQRjF0bzdhQVU3VkZudVQ4RXA2N3dRRWJ4T25VVWRrZmNYM3V3NU1DcVBlM1E0NWdqLUdyZlpXaTRVSl8wemhST3IzaVZNLUFr?oc=5",
+     "title": "University of Ghana Unions Oppose Privatisation of Campus Security"
+    },
+    {
+     "outlet": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yZ0wtYTNsRmJ6bF85aVRqa3JDdmRTSnpvcmU1M3pmc2dwc3p0clptU1N4bXVQMUhWV0x1NTFCMEcxbEVTNjJLMEJJeEFUQldOT2JteVQ3UHBPM045R3p6NVNvc9IBXEFVX3lxTE9TczBqY3dTU1o3VlZXeGZCbFhtNU9WUWQzamZoUDBkeEp6T2tZV1JULTBIM3pGSDBTUnBjYXlpNzVaVU05eTliNDJnRHBvY1hndEp1RnR3S1ZEV3JK?oc=5",
+     "title": "University of Ghana Unions Oppose Campus Security Privatisation"
+    }
+   ],
+   "outlets": 4,
+   "score": 14.66,
+   "created": "2026-10-15T03:18:22+00:00"
   },
   {
    "id": 18184,
@@ -5227,6 +5370,45 @@
    "created": "2026-10-14T21:17:03+00:00"
   },
   {
+   "id": 18924,
+   "headline": "Pakistan suspends Imran Khan party government in Khyber Pakhtunkhwa",
+   "dek": "Federal authorities enforce emergency rule in the northern province following widespread protests by opposition supporters.",
+   "category": "World",
+   "desk": "world",
+   "risk_note": "",
+   "reason": "The story involves an accusation of wrongdoing. Make sure every accusation is attributed to whoever made it, that any denial is included, and that we never state guilt as fact. Getting this wrong could be read as slander.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [],
+   "body": [
+    "Pakistan's federal government has suspended the provincial leadership of Khyber Pakhtunkhwa and declared emergency rule across the northern region.",
+    "The central intervention targetted the Pakistan Tehreek-e-Insaf party, led by former Prime Minister Imran Khan, which has governed the province for 13 years. Al Jazeera reported that demonstrators clashed with security forces following the enforcement of governor's rule."
+   ],
+   "more": 6,
+   "photo": "img/18924.jpg",
+   "credit": "Al Jazeera",
+   "sources": [
+    {
+     "outlet": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+     "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
+     "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold"
+    },
+    {
+     "outlet": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXRxTlA3czNKMm1DMktldEk2SHozcGtuTFhoWlFCLXRFLTFUUzA0OEtZMW9QaVlWVHZNcmFTaEpTNnFNaU93T25PUHBWVFV0bGVXZzNBUE51YVo0d0s5LUJQMFhBUzNrVTJTTktUZGRSYjc1UktEOXl5R2stNW1JVWVoeXh4OVFsdGdFeDFwaDQ4WFJuSVMxV01rNzloeFNxRk85WkdjRlJhZ2loemZ0UEtwdjVQT0hTUlJuZjFJTlpBdnpH?oc=5",
+     "title": "Jailed Imran Khan's woes compound after Pakistan suspends his provincial government"
+    }
+   ],
+   "outlets": 3,
+   "score": 6.76,
+   "created": "2026-10-15T03:18:22+00:00"
+  },
+  {
    "id": 14450,
    "headline": "Kudus Faces Pressure as Tottenham Seek First Season Win",
    "dek": "Ghanaian player Kudus comes under focus while Tottenham aim to secure their initial victory of the campaign, GhanaSoccernet reported.",
@@ -5906,6 +6088,37 @@
    "outlets": 1,
    "score": -18.81,
    "created": "2026-10-14T00:18:50+00:00"
+  },
+  {
+   "id": 19287,
+   "headline": "Historic Cleveland church receives $750,000 grant for building restoration",
+   "dek": "Shiloh Baptist Church in Ohio secures federal funding to repair structural damage and preserve its rich civil rights legacy.",
+   "category": "Christian News",
+   "desk": "music",
+   "risk_note": "",
+   "reason": "Parts of the story are still worded too closely to another outlet's report. Republishing someone else's wording can look like copying; reword those lines. Only one outlet reported this, so we cannot confirm it from a second source.",
+   "church_leader": false,
+   "blocked": [],
+   "warnings": [
+    "1 nine-word run(s) copied from a source, e.g. “restoration work is expected to begin in early 2027”"
+   ],
+   "body": [
+    "Shiloh Baptist Church in Cleveland, Ohio, has secured a $750,000 federal grant to restore its aging historical sanctuary.",
+    "The Christian Post reported that the funding originates from a specialized Civil Rights grant program administered by the National Park Service to repair extensive structural deterioration."
+   ],
+   "more": 7,
+   "photo": "img/19287.jpg",
+   "credit": "The Christian Post",
+   "sources": [
+    {
+     "outlet": "The Christian Post",
+     "url": "https://www.christianpost.com/news/historic-cleveland-church-receives-750k-gift-from-god.html",
+     "title": "Historic Cleveland church with Civil Rights ties receives $750K grant: 'gift from God'"
+    }
+   ],
+   "outlets": 1,
+   "score": -19.05,
+   "created": "2026-10-15T03:18:22+00:00"
   },
   {
    "id": 8411,
